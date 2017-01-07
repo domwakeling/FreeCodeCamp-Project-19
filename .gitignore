@@ -1,6 +1,6 @@
 # SCSS compiler files
 *.css.map
-*.sass-cahce/*
+*.sass-cache/*
 
 # Below here taken from recommendations
 
