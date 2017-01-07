@@ -1,0 +1,63 @@
+body {
+  background-color: #222; }
+
+h2 {
+  font-family: sans-serif;
+  color: #eee;
+  padding-bottom: 0px;
+  margin-bottom: 0px; }
+
+.wrapper {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #333; }
+
+.chart {
+  fill: #999; }
+  .chart text {
+    fill: #eee;
+    font: 10px sans-serif;
+    text-anchor: start; }
+
+.axis .domain,
+.axis .tick,
+.axis .tick line {
+  stroke: #eee; }
+.axis text {
+  fill: #eee;
+  font: 10pt sans-serif;
+  text-anchor: end; }
+
+div.tooltip {
+  position: absolute;
+  text-align: left;
+  max-width: 160px;
+  padding: 7px;
+  font: 12px sans-serif;
+  background: lightgray;
+  border: 0px;
+  border-radius: 5px;
+  pointer-events: none; }
+
+text.chart-title {
+  fill: #eee;
+  font-size: 20px;
+  font-weight: bold;
+  text-anchor: middle; }
+
+text.axis-legend {
+  fill: #ccc;
+  font-size: 14px;
+  text-anchor: end; }
+
+.clean {
+  fill: green; }
+
+.doper {
+  fill: red; }
+
+.hover-circle {
+  stroke: white;
+  stroke-width: 2px; }
+
+/*# sourceMappingURL=main_style.css.map */
