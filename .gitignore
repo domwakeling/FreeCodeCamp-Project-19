@@ -1,5 +1,6 @@
 # SCSS compiler files
 *.css.map
+*.sass-cahce/*
 
 # Below here taken from recommendations
 
